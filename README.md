@@ -3,16 +3,18 @@ GeziProject
 
 Gezi parkı ile başlayan protestolara bizzat katıldım. Protestolar sırasında yaşadığım sorunların bazılarına çözüm üretebileceğimizi duşunuyorum. Sadece protesto ederek katılmak yeterli olmamalı, bu nedenle aklıma gelen fikirleri tartışmaya açmak istiyorum. Bu tartışmalardan çözüm üreten projeler çıkmasını umuyorum. Protestolar dünyanın her yerinde var olmaya devam edecek, bence bu tarz yardımcı projeler ile etkileri güçlenecek ve olumsuzluklar önlenebilecek. Gezi parkı protestolarında onaylamadığım ve oradaki halkın da onaylamadığını bildiğim bir çok olay oldu. Bu olayların bazılarına mudehale ederek önlemeyi basardık(Kamu malına zarar vermek, taskınlık ve provokasyon yapmak gibi). Bu önerim ile protesyoların kucuk grupların yaptıgı taskınlıkları azaltmasını ve amacından taşmadan yürümesine yardımcı olmasını umuyorum.
 
+
 Beklentim bu projeyi yaparken benimle birlikte çalışacak, aynı düşünceleri paylaşan insanlar bulmak ve hızla hayata geçirmek. Projenin GNU lisansına sahip olması gerektığini duşunuyorum. Buradaki butün konular sadece projenin başlaması için önerilerim ve hepsinn tartışarak değişmesi/gelişmesini bekliyorum.
 
+Bu tür bir projenin sadece toplumsal olaylarda değil, doğal felaketlerde de hayat kurtarıcı bir etkisi olabilir.
 
 #Bence en temel sorunlar
 Buraya sadece teknik anlamda çözüm bulabilecegimizi düşündüğüm sorunları yazdım, elbette çok madde var. Problemlerin boyutlarını bir çok blog yazısı kapsadıgı için sadece temel başlıklarla yetiniyorum. Çözümlerin ayrıntılı yazılması bence projelerin gerçekleşme olasılığını arttıracaktır.
 
-* Sosyal medya bilgi kirliliği
-* Erişim ihtiyacı (Internet, GSM, ...)
-* Ortamda yayılan dedidokuların önlenmesi
+* Erişim'in kesilmemesi (Wifi, GSM, telsiz/walkie-talkie, bluetooth, kısa mesafeli FM yayını...)
 * Bölgesel olarak güncel durumun bilinmemesi
+* Sosyal medya bilgi kirliliği
+* Ortamda yayılan dedidokuların önlenmesi
 * Pil ömrü, sarj ihtiyacı
 * Provakatörlerin engellenmesi için efektif bir yöntem
 * Ortak akıl ve haraketin koordinasyonu
@@ -21,8 +23,9 @@ Buraya sadece teknik anlamda çözüm bulabilecegimizi düşündüğüm sorunlar
 * Alan içi ve dışı olmak üzere iki ayrı kullanıcı grubu düşünülmeli
 * Çözümler teknik olarak karmaşık olabilir ama kullanım olarak twitter kullanmaktan daha zor olmamalı
 * Olabildiğince çok platform desteklemeli ya da platform destegi kolayca verilebilmeli
+* Akıllı olmayan telefonlar için de acil durum çözümleri olmalı.
 * Kısıtlı kaynak kullanmalı, pil ömrü, bant genişliği bu ortamlarda önemli kaynaklar
-* Çözümler merkezi olmamalı
+* Çözümler merkezi olmamalı, ya da büyük ölçe
 * İçerik saglayıcıların kullanıcılar olmalı
 * Üretilen içerik bir puanlama sistemi ile dogrulanmalı, yanlış, yalan bilgiler altlarda kalmalı
 
@@ -42,7 +45,7 @@ Buraya sadece teknik anlamda çözüm bulabilecegimizi düşündüğüm sorunlar
 * Ortamda bir çok kurumun ya da evin wireless access pointleri var. Kurumlar ya da insanlar paylaşmak istiyorlar ama nasıl yapacaklarını bilmiyorlar.Twitter üzerinden bir çok wireless sifresi paylaşıldı ama efektif degil. İnternet erişimi olmadan, internetteki bir bilgiye ulaşarak erismek mantıksız.
 * Yogun olarak telefon kullanılıyor ve hizla pil bitiyor
 * Sarj etmek için mekanlar elektrik sağlayabiliyorlar ama sarj kablosu, adaptörü bulmak zor
-
+* Alandan canlı olarak Internet radyo yayını sağlanması kritik olabilir.
 
 ##Öneri
 Protestolara katılan kullanıcının akıllı telefonuna kolayca yükledigi bir uygulama. Uygulama kullanıcıların kendi ürettigi bilgileri gösterir bu bilgilerin dogrulugu DM(dogrulama mekanizması) ile otomatik belirlenir ve yukarı/aşağı itilir.
@@ -76,3 +79,5 @@ Protestolara katılan kullanıcının akıllı telefonuna kolayca yükledigi bir
 * Kullanıcılar puanlamalarına göre seviyelere ayrılmalı. 
 * Örnek olarak http://stackoverflow.com/  gibi soru sitelerindeki puanlama mekanizmaları incelenmeli
 * GPS, fotograf, dijital imza gibi mekanizmalar puanlamayı etkilemeli
+* Bütün fotoğraflar google image searchten geçip bir gün önceden eskilerse "eski" diye işaretlenmeli
+* Kalite tagleri olmalı, bilginin değerini ispatlayan ("Ben gördüm", "gören güvendiğim bir arkadaşımdan direkt aldım", "fotoğrafını/videosunu çektim", gibi)
